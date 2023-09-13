@@ -9,7 +9,7 @@ Reinforcement learning (RL) is a promising approach in unmanned ground vehicles 
 
 ## Results
 
-Various demos illustrating the characteristics of the proposed Multi-Hug RL method and the goal-conditioned navigation strategy are provided below.
+Various demos illustrating the characteristics of the proposed Multi-Hug RL method and the goal-conditioned navigation strategy are provided below. You can also access the demos via [Video1](https://youtu.be/SXM2hgY1UwM) and [Video2](https://youtu.be/AbRW-jnCiKs)
 
 ### Indoor Navigation
 
