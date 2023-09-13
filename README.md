@@ -8,3 +8,15 @@ This repo is the implementation of the following paper:
 <br> [AutoMan Research Lab, Nanyang Technological University](https://lvchen.wixsite.com/automan)
 
 <br> **[[Project Website]](https://wujingda.github.io/Multi-Hug-RL/)**
+
+
+
+## Reference
+If you find this repo to be useful in your research, please consider citing our work
+```
+@ARTICLE{9793564,
+  author={Wu, Jingda and Zhou, Yanxin and Yang, Haohan and Huang, Zhiyu and and Lv, Chen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Human-guided Reinforcement Learning with Sim-to-real Transfer for Autonomous Navigation}, 
+  year={2023},
+  doi={10.1109/TPAMI.2023.3314762}}
