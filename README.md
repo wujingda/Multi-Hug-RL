@@ -13,7 +13,7 @@ The code of this study will be released soon.
 ## Reference
 If you find this repo to be useful in your research, please consider citing our work
 ```
-@ARTICLE{9793564,
+@ARTICLE{Wu2023Human,
   author={Wu, Jingda and Zhou, Yanxin and Yang, Haohan and Huang, Zhiyu and and Lv, Chen},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Human-guided Reinforcement Learning with Sim-to-real Transfer for Autonomous Navigation}, 
